@@ -1,0 +1,14 @@
+{
+	"admin/services/pse": {
+		"title": "PoE Manager",
+		"order": 60,
+		"action": {
+			"type": "view",
+			"path": "pse/pse"
+		},
+		"depends": {
+			"acl": [ "luci-app-pse" ],
+			"uci": { "pse": true }
+		}
+	}
+}

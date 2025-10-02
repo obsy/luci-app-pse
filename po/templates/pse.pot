@@ -1,0 +1,47 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Edit"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "LAN 2"
+msgstr ""
+
+msgid "LAN 3"
+msgstr ""
+
+msgid "LAN 4"
+msgstr ""
+
+msgid "LAN 5"
+msgstr ""
+
+msgid "PoE Manager"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Port Status"
+msgstr ""
+
+msgid "Power Capacity"
+msgstr ""
+
+msgid "Power Consumption"
+msgstr ""
+
+msgid "Power Consumption: %0.1f%% (%dW of %dW)"
+msgstr ""
+
+msgid "Recovery"
+msgstr ""
+
+msgid "Toggle"
+msgstr ""
+
+msgid "WAN"
+msgstr ""
